@@ -30,7 +30,7 @@ Halaman utama yang menampilkan ringkasan saldo, sisa budget, dan grafik visualis
 
 ### 4. Form Add Transaction
 Formulir input transaksi yang sudah dilengkapi dengan fitur *AI Category Predictor* dan *Smart Auto-Correct*.
-![Add Transaction](https://via.placeholder.com/200x400.png?text=Add+Transaction+UI)
+[Add Transaction]<img width="1220" height="2712" alt="image" src="https://github.com/user-attachments/assets/a482e0a7-2fab-4645-aaf4-5649cfbc77b8" />
 
 ---
 
