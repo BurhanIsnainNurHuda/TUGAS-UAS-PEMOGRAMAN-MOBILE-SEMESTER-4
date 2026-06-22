@@ -21,7 +21,8 @@ Halaman awal pemuatan aplikasi yang bersih dengan logo identitas MoneyTrack.
 
 ### 2. Security Screen (Biometric/PIN)
 Halaman gerbang keamanan sebelum masuk ke aplikasi untuk memvalidasi sidik jari atau PIN user.
-![Security Screen](https://via.placeholder.com/200x400.png?text=Security+Screen)
+[Security Screen]<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/01c2bc87-4456-4c74-8778-6607c772e7d1" />
+
 
 ### 3. Dashboard Analytics
 Halaman utama yang menampilkan ringkasan saldo, sisa budget, dan grafik visualisasi transaksi (MPAndroidChart).
