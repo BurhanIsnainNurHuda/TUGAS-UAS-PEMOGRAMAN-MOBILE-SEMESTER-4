@@ -26,7 +26,7 @@ Halaman gerbang keamanan sebelum masuk ke aplikasi untuk memvalidasi sidik jari 
 
 ### 3. Dashboard Analytics
 Halaman utama yang menampilkan ringkasan saldo, sisa budget, dan grafik visualisasi transaksi (MPAndroidChart).
-![Dashboard](https://via.placeholder.com/200x400.png?text=Dashboard+UI)
+[Dashboard]<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/a7fd8058-de20-4511-8245-934f33d4dc90" />
 
 ### 4. Form Add Transaction
 Formulir input transaksi yang sudah dilengkapi dengan fitur *AI Category Predictor* dan *Smart Auto-Correct*.
