@@ -17,7 +17,7 @@ MoneyTrack adalah aplikasi manajemen keuangan pribadi berbasis Android Native (J
 
 ### 1. Splash Screen
 Halaman awal pemuatan aplikasi yang bersih dengan logo identitas MoneyTrack.
-[Splash Screen](<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/f33e404f-109f-41ff-b14b-a775c02849e8" />
+[Splash Screen] <img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/f33e404f-109f-41ff-b14b-a775c02849e8" />
 
 ### 2. Security Screen (Biometric/PIN)
 Halaman gerbang keamanan sebelum masuk ke aplikasi untuk memvalidasi sidik jari atau PIN user.
